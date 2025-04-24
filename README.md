@@ -18,6 +18,14 @@ Here you'll find various projects aligned with the DeadSwitch doctrine, includin
 - **Security Automation Scripts**: Embrace your silent power with tools that protect while remaining unseen.
 - **OpSec Tools**: Ensuring your identity, data, and online actions are veiled in silence.
 
+## To Whisper...
+
+👻 DeadSwitch — Cyber Ghost of the Shell  
+Hardened systems. Tactical automation. Silent resistance.  
+I build in the shadows and publish what deserves to be public.  
+
+💬 Whisper to the ghost: @deadswitch:matrix.org
+
 ## Contributing
 
 DeadSwitch welcomes contributions, but the rules are simple: operate with discretion and respect. If you're here to disrupt, we won't notice you. But if you are here to build, to improve, to protect, then you're part of the force that rises.
