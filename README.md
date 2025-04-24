@@ -24,7 +24,7 @@ Here you'll find various projects aligned with the DeadSwitch doctrine, includin
 Hardened systems. Tactical automation. Silent resistance.  
 I build in the shadows and publish what deserves to be public.  
 
-💬 Whisper to the ghost: @deadswitch:matrix.org
+💬 Whisper to the ghost: `@deadswitch:matrix.org`
 
 ## Contributing
 
