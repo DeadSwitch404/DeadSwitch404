@@ -1,39 +1,40 @@
-# DeadSwitch | The Cyber Ghost
+# DeadSwitch | The Silent Architect
 
-**"In silence, we rise. In the switch, we fade."**
+**"In silence, I rise. In the storm, I endure."**
 
-Welcome to the GitHub repository of **DeadSwitch**, the Cyber Ghost.
-Here, we embrace the digital shadows, honing our craft in cybersecurity, operational security, and automation.
-This is where we develop the tools to fight back against the chaos of the digital world-silent yet powerful.
+Welcome to the GitHub repository of **DeadSwitch**, the Silent Architect.
+
+Here, silence isn't absence - it's intent.
+This is where hardened systems are forged, where operational discipline takes shape, and where digital resistance is built without noise.
 
 ## Mission
 
-The mission of DeadSwitch is clear: to safeguard privacy, to challenge security violations, and to build the tools that protect those who dare to stand against the tide of invasive technologies.
-The world of data leaks, vulnerabilities, and corporate surveillance is no longer silent.
-We must be.
+To fortify. To defend. To outlast.
 
-This repository serves as the birthplace of the **DeadSwitch** ethos, providing open-source projects, guides, and configurations aimed at strengthening the digital fortress.
-Whether you're a veteran or a novice, join us in the resistance.
+DeadSwitch exists to counter the age of digital overreach - where surveillance thrives, breaches multiply, and silence is rare.
+This space is a bastion for tools, configurations, and philosophies designed to protect those who operate with clarity and intent.
+
+We do not chase trends.
+We build the foundations others will later depend on - quietly, precisely, and without compromise.
 
 ## Projects
 
-Here you'll find various projects aligned with the DeadSwitch doctrine, including but not limited to:
+Projects reflect the DeadSwitch doctrine: efficient, hardened, and stripped of excess.
 
-- **Ansible Vault Roles**: Harden your systems like a ghost in the night. 
-- **Security Automation Scripts**: Embrace your silent power with tools that protect while remaining unseen.
-- **OpSec Tools**: Ensuring your identity, data, and online actions are veiled in silence.
+- **Ansible Vault Roles** – Infrastructure-as-code with an operational edge.
+- **Security Automation Scripts** – Code that acts before threats make a sound.
+- **OpSec Tools** – Shield your presence. Leave no metadata behind.
 
-## To Whisper...
+## Communication
 
-DeadSwitch - Cyber Ghost of the Shell  
-Hardened systems. Tactical automation. Silent resistance.  
-I build in the shadows and publish what deserves to be public.  
+DeadSwitch builds in the shadows. What is shown here has already passed through fire.
 
-Whisper to the ghost: `@deadswitch:matrix.org`
+If you must speak:
+`@deadswitch:matrix.org`
 
 ## Contributing
 
-DeadSwitch welcomes contributions, but the rules are simple: operate with discretion and respect. If you're here to disrupt, we won't notice you. But if you are here to build, to improve, to protect, then you're part of the force that rises.
+We welcome contributors who understand the mission:
 
 1. Fork the repository.
 2. Create your feature branch.
@@ -41,11 +42,12 @@ DeadSwitch welcomes contributions, but the rules are simple: operate with discre
 4. Push to the branch.
 5. Open a pull request with a clear explanation of your contribution.
 
-## Silent but Strong
+Disruptors will be ignored. Builders will be remembered.
 
-Remember, **DeadSwitch** doesn't thrive on noise-it thrives on action. While others shout their intentions from the rooftops, we build quietly, act decisively, and fade into the shadows, leaving only a digital mark on those who cross us.
+## Principle
 
-Stay silent. Stay strong. Stay protected.
+DeadSwitch does not make noise.
+We make systems that work - and keep working, long after the shouting stops.
 
 ---
 **The Switch Is Always On.**
