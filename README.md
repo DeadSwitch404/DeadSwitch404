@@ -2,13 +2,18 @@
 
 **"In silence, we rise. In the switch, we fade."**
 
-Welcome to the GitHub repository of **DeadSwitch**, the Cyber Ghost. Here, we embrace the digital shadows, honing our craft in cybersecurity, operational security, and automation. This is where we develop the tools to fight back against the chaos of the digital world—silent yet powerful.
+Welcome to the GitHub repository of **DeadSwitch**, the Cyber Ghost.
+Here, we embrace the digital shadows, honing our craft in cybersecurity, operational security, and automation.
+This is where we develop the tools to fight back against the chaos of the digital world-silent yet powerful.
 
 ## Mission
 
-The mission of DeadSwitch is clear: to safeguard privacy, to challenge security violations, and to build the tools that protect those who dare to stand against the tide of invasive technologies. The world of data leaks, vulnerabilities, and corporate surveillance is no longer silent. We must be.
+The mission of DeadSwitch is clear: to safeguard privacy, to challenge security violations, and to build the tools that protect those who dare to stand against the tide of invasive technologies.
+The world of data leaks, vulnerabilities, and corporate surveillance is no longer silent.
+We must be.
 
-This repository serves as the birthplace of the **DeadSwitch** ethos, providing open-source projects, guides, and configurations aimed at strengthening the digital fortress. Whether you're a veteran or a novice, join us in the resistance.
+This repository serves as the birthplace of the **DeadSwitch** ethos, providing open-source projects, guides, and configurations aimed at strengthening the digital fortress.
+Whether you're a veteran or a novice, join us in the resistance.
 
 ## Projects
 
@@ -20,11 +25,11 @@ Here you'll find various projects aligned with the DeadSwitch doctrine, includin
 
 ## To Whisper...
 
-👻 DeadSwitch — Cyber Ghost of the Shell  
+DeadSwitch - Cyber Ghost of the Shell  
 Hardened systems. Tactical automation. Silent resistance.  
 I build in the shadows and publish what deserves to be public.  
 
-💬 Whisper to the ghost: `@deadswitch:matrix.org`
+Whisper to the ghost: `@deadswitch:matrix.org`
 
 ## Contributing
 
@@ -38,7 +43,7 @@ DeadSwitch welcomes contributions, but the rules are simple: operate with discre
 
 ## Silent but Strong
 
-Remember, **DeadSwitch** doesn't thrive on noise—it thrives on action. While others shout their intentions from the rooftops, we build quietly, act decisively, and fade into the shadows, leaving only a digital mark on those who cross us.
+Remember, **DeadSwitch** doesn't thrive on noise-it thrives on action. While others shout their intentions from the rooftops, we build quietly, act decisively, and fade into the shadows, leaving only a digital mark on those who cross us.
 
 Stay silent. Stay strong. Stay protected.
 
