@@ -1,6 +1,6 @@
 # DeadSwitch | The Silent Architect
 
-**"In silence, I rise. In the storm, I endure."**
+**"Fear the silence. Fear the switch."**
 
 Welcome to the GitHub repository of **DeadSwitch**, the Silent Architect.
 
@@ -21,7 +21,7 @@ We build the foundations others will later depend on - quietly, precisely, and w
 
 Projects reflect the DeadSwitch doctrine: efficient, hardened, and stripped of excess.
 
-- **Ansible Vault Roles** – Infrastructure-as-code with an operational edge.
+- **Ansible Roles** – Infrastructure-as-code with an operational edge.
 - **Security Automation Scripts** – Code that acts before threats make a sound.
 - **OpSec Tools** – Shield your presence. Leave no metadata behind.
 
@@ -31,6 +31,8 @@ DeadSwitch builds in the shadows. What is shown here has already passed through 
 
 If you must speak:
 `@deadswitch:matrix.org`
+
+A whisper may come back.
 
 ## Contributing
 
@@ -42,7 +44,7 @@ We welcome contributors who understand the mission:
 4. Push to the branch.
 5. Open a pull request with a clear explanation of your contribution.
 
-Disruptors will be ignored. Builders will be remembered.
+**Disruptors will be ignored. Builders will be remembered.**
 
 ## Principle
 
