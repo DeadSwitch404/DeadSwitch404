@@ -2,7 +2,7 @@
 
 **"Fear the silence. Fear the switch."**
 
-Welcome to the GitHub repository of **DeadSwitch**, the Silent Architect.
+Welcome to the GitHub repository of The Silent Architect.
 
 Here, silence isn't absence - it's intent.
 This is where hardened systems are forged, where operational discipline takes shape, and where digital resistance is built without noise.
@@ -14,8 +14,8 @@ To fortify. To defend. To outlast.
 DeadSwitch exists to counter the age of digital overreach - where surveillance thrives, breaches multiply, and silence is rare.
 This space is a bastion for tools, configurations, and philosophies designed to protect those who operate with clarity and intent.
 
-We do not chase trends.
-We build the foundations others will later depend on - quietly, precisely, and without compromise.
+- We do not chase trends.
+- We build the foundations others will later depend on - quietly, precisely, and without compromise.
 
 ## Projects
 
@@ -33,6 +33,9 @@ If you must speak:
 `@deadswitch:matrix.org`
 
 A whisper may come back.
+
+If you want signal:
+https://silentarchitect.org
 
 ## Contributing
 
@@ -52,4 +55,4 @@ DeadSwitch does not make noise.
 We make systems that work - and keep working, long after the shouting stops.
 
 ---
-**The Switch Is Always On.**
+**Fear the Silence. Fear the Switch.**
