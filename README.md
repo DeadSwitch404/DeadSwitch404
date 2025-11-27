@@ -1,7 +1,5 @@
 # DeadSwitch | The Silent Architect
 
-**"Fear the silence. Fear the switch."**
-
 Welcome to the GitHub repository of The Silent Architect.
 
 Here, silence isn't absence - it's intent.
@@ -29,13 +27,12 @@ Projects reflect the DeadSwitch doctrine: efficient, hardened, and stripped of e
 
 DeadSwitch builds in the shadows. What is shown here has already passed through fire.
 
+Tune to the signal: https://silentarchitect.org
+
 If you must speak:
 `@deadswitch:matrix.org`
 
 A whisper may come back.
-
-If you want signal:
-https://silentarchitect.org
 
 ## Contributing
 
@@ -52,7 +49,8 @@ We welcome contributors who understand the mission:
 ## Principle
 
 DeadSwitch does not make noise.
-We make systems that work - and keep working, long after the shouting stops.
+
+We make systems that work - and keep working, long after the noise stops.
 
 ---
-**Fear the Silence. Fear the Switch.**
+**[ Fear the Silence. Fear the Switch. ]**
