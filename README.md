@@ -2,55 +2,53 @@
 
 Welcome to the GitHub repository of The Silent Architect.
 
-Here, silence isn't absence - it's intent.
-This is where hardened systems are forged, where operational discipline takes shape, and where digital resistance is built without noise.
+This space hosts tools, configurations, and scripts designed for hardened systems and operational security. 
+Everything here is built for reliability, precision, and practical defense - not noise or flair.
 
 ## Mission
 
-To fortify. To defend. To outlast.
+DeadSwitch exists to counter digital overreach: surveillance, breaches, and careless systems.
 
-DeadSwitch exists to counter the age of digital overreach - where surveillance thrives, breaches multiply, and silence is rare.
-This space is a bastion for tools, configurations, and philosophies designed to protect those who operate with clarity and intent.
+Our goal is simple: fortify, defend, and outlast.
 
-- We do not chase trends.
-- We build the foundations others will later depend on - quietly, precisely, and without compromise.
+- Build foundational tools others rely on.
+- Automate security and operational tasks.
+- Maintain clarity and intent in every project.
 
 ## Projects
 
-Projects reflect the DeadSwitch doctrine: efficient, hardened, and stripped of excess.
+This repository contains practical resources:
 
-- **Ansible Roles** – Infrastructure-as-code with an operational edge.
-- **Security Automation Scripts** – Code that acts before threats make a sound.
-- **OpSec Tools** – Shield your presence. Leave no metadata behind.
+- **Ansible Roles** – Infrastructure-as-code with operational focus.
+- **Security Automation Scripts** – Tools to detect, prevent, and respond to threats.
+- **OpSec Utilities** – Scripts and configurations to protect your presence and metadata.
+
+Each project includes a README with setup and usage instructions.
 
 ## Communication
 
-DeadSwitch builds in the shadows. What is shown here has already passed through fire.
+DeadSwitch operates quietly.
 
-Tune to the signal: https://silentarchitect.org
+Official updates and deeper explanations are available at: https://silentarchitect.org
 
-If you must speak:
+If necessary, reach out:
 `@deadswitch:matrix.org`
-
-A whisper may come back.
 
 ## Contributing
 
-We welcome contributors who understand the mission:
+Contributions are welcome from those who understand the mission:
 
 1. Fork the repository.
 2. Create your feature branch.
 3. Commit your changes.
 4. Push to the branch.
-5. Open a pull request with a clear explanation of your contribution.
+5. Open a pull request with a clear explanation.
 
-**Disruptors will be ignored. Builders will be remembered.**
+Disruptors will be ignored; builders will be remembered.
 
 ## Principle
 
-DeadSwitch does not make noise.
-
-We make systems that work - and keep working, long after the noise stops.
+We focus on systems that work and remain reliable long-term - without noise.
 
 ---
 **[ Fear the Silence. Fear the Switch. ]**
