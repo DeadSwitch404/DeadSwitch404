@@ -7,13 +7,7 @@ Everything here is built for reliability, precision, and practical defense - not
 
 ## Mission
 
-DeadSwitch exists to counter digital overreach: surveillance, breaches, and careless systems.
-
-Our goal is simple: fortify, defend, and outlast.
-
-- Build foundational tools others rely on.
-- Automate security and operational tasks.
-- Maintain clarity and intent in every project.
+This organization hosts security and automation tools, scripts, and Ansible roles for hardened systems and operational workflows.
 
 ## Projects
 
