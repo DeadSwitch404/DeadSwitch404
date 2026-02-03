@@ -2,20 +2,17 @@
 
 Welcome to the GitHub repository of The Silent Architect.
 
-This space hosts tools, configurations, and scripts designed for hardened systems and operational security. 
+This space hosts tools, configurations, and scripts designed for hardened systems and operational security.
 Everything here is built for reliability, precision, and practical defense - not noise or flair.
-
-## Mission
-
-This organization hosts security and automation tools, scripts, and Ansible roles for hardened systems and operational workflows.
 
 ## Projects
 
 This repository contains practical resources:
 
-- **Ansible Roles** – Infrastructure-as-code with operational focus.
-- **Security Automation Scripts** – Tools to detect, prevent, and respond to threats.
-- **OpSec Utilities** – Scripts and configurations to protect your presence and metadata.
+- **Ansible Roles** - Infrastructure-as-Code with operational focus.
+- **Security Automation Scripts** - Tools to detect, prevent, and respond to threats.
+- **OpSec Utilities** - Scripts and configurations to protect your presence and metadata.
+- **CI/CD Configurations** - Security starts early in the pipelines. Focus on DevSecOps.
 
 Each project includes a README with setup and usage instructions.
 
@@ -24,9 +21,6 @@ Each project includes a README with setup and usage instructions.
 DeadSwitch operates quietly.
 
 Official updates and deeper explanations are available at: https://silentarchitect.org
-
-If necessary, reach out:
-`@deadswitch:matrix.org`
 
 ## Contributing
 
