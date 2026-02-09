@@ -36,7 +36,7 @@ Disruptors will be ignored; builders will be remembered.
 
 ## Principle
 
-We focus on systems that work and remain reliable long-term - without noise.
+I focus on systems that work and remain reliable long-term - without noise.
 
 ---
-**[ Fear the Silence. Fear the Switch. ]**
+**=[ Fear the Silence. Fear the Switch. ]=**
