@@ -3,7 +3,7 @@
 Welcome to the GitHub repository of The Silent Architect.
 
 This space hosts tools, configurations, and scripts designed for hardened systems and operational security.
-Everything here is built for reliability, precision, and practical defense - not noise or flair.
+Everything here is built for reliability, precision, and practical defense.
 
 ## Projects
 
@@ -18,9 +18,9 @@ Each project includes a README with setup and usage instructions.
 
 ## Communication
 
-DeadSwitch operates quietly.
+Updates and deeper explanations are available at: https://silentarchitect.org
 
-Official updates and deeper explanations are available at: https://silentarchitect.org
+IRC: `irc.silentarchitect.org/6697 - #silentarchitect`
 
 ## Contributing
 
